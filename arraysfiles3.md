@@ -1,5 +1,5 @@
 ### Team  
-Saul Barrera García:[GitHub](https://github.com/saulbg/markdowns)  
+Saul Barrera García: [GitHub](https://github.com/saulbg/markdowns)  
 
 Mario Solorzano Ventura: [GitHub](https://github.com/mariosolven/)  
 
